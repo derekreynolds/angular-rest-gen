@@ -1,4 +1,4 @@
-export * from './<%= entity %>.component';
-export * from './add/add-<%= entity %>.component';
-export * from './show/show-<%= entity %>.component';
-export * from './edit/edit-<%= entity %>.component';
+export * from './<%= entityKebabCase %>.component';
+export * from './add/add-<%= entityKebabCase %>.component';
+export * from './show/show-<%= entityKebabCase %>.component';
+export * from './edit/edit-<%= entityKebabCase %>.component';

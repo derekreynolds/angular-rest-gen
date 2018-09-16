@@ -4,5 +4,11 @@
       "username": "Derek Reynolds",
       "package": "ie.evolvingreality.component"
     }
+  },
+  "generator-angular-rest-gen": {
+    "promptValues": {
+      "username": "Derek Reynolds",
+      "path": "/"
+    }
   }
 }

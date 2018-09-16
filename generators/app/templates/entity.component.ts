@@ -7,7 +7,7 @@ import { ToolbarSetupService } from 'app/common/util';
 import { <%= entity %> } from 'app/common/model';
 
 @Component({
-  selector: 'app-<%= entityKebabCase %>',
+  selector: 'er-<%= entityKebabCase %>',
   templateUrl: './<%= entityKebabCase %>.component.html',
   styleUrls: ['./<%= entityKebabCase %>.component.css']
 })

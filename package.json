@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Generator to create an Angular 2+ CRUD that consumes a REST endpoint for an entity.",
   "scripts": {
-    "start": "npm generator/app/index.js"
+    "start": "yo generators/app/index.js"
   },
   "files": [
     "generators"
